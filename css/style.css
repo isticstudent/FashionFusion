@@ -1949,9 +1949,18 @@ ol {
 	background: #111111;
 	padding-top: 70px;
 }
+.footer_contact{
+	
+	background: #111111;
+	padding-top: 70px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
 
 .footer__about {
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 }
 
 .footer__about .footer__logo {
@@ -2209,7 +2218,7 @@ ol {
 }
 
 .testimonial__pic {
-	height: 600px;
+	height: 800px;
 }
 
 /*---------------------
