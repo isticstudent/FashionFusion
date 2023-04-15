@@ -109,6 +109,14 @@ ol {
 /*---------------------
   Helper CSS
 -----------------------*/
+.footer_contact{
+	
+	background: #111111;
+	padding-top: 70px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
 
 .section-title {
 	margin-bottom: 45px;
